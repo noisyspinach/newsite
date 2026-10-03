@@ -10,10 +10,6 @@ export const root = [
         name: "Cadence",
         href: "https://cd.afkdev.me"
       },
-      {
-        name: "dotdownload",
-        href: "https://dl.afkdev.me"
-      },
     ]
   },
   {
@@ -27,5 +23,9 @@ export const root = [
   {
     name: "Discord",
     href: "https://discordapp.com/users/1445330994742951988"
-  }
+  },
+  {
+    name: "Blog",
+    href: "/blog"
+  },
 ];
